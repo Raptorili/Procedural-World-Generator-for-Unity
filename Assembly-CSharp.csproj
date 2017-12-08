@@ -51,10 +51,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\scripts\MapDisplay.cs" />
-     <Compile Include="Assets\scripts\MapGeneration.cs" />
-     <Compile Include="Assets\scripts\Noise.cs" />
-     <Compile Include="Assets\scripts\TextureGenerator.cs" />
+     <Compile Include="Assets\scripts\ColorSchemePicker.cs" />
+     <Compile Include="Assets\scripts\CustomGradient.cs" />
+     <Compile Include="Assets\scripts\WorldCreation\MapDisplay.cs" />
+     <Compile Include="Assets\scripts\WorldCreation\MapGeneration.cs" />
+     <Compile Include="Assets\scripts\WorldCreation\Noise.cs" />
+     <Compile Include="Assets\scripts\WorldCreation\TextureGenerator.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
