@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\editor\GenerateWindow.cs" />
      <Compile Include="Assets\editor\GradientDrawer.cs" />
      <Compile Include="Assets\editor\GradientEditor.cs" />
      <Compile Include="Assets\editor\MapGeneratorEditor.cs" />
